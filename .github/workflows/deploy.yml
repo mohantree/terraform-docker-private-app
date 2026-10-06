@@ -1,4 +1,4 @@
-name: Deploy Docker App --update
+name: Deploy Docker App 
 
 on:
   push:
